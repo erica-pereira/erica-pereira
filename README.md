@@ -10,8 +10,7 @@
 ## Technologies I love:
 
 ### Backend:
-<img src="https://github.com/erica-pereira/erica-pereira/blob/main/images/java.png" alt="java" width="60" height="60"/>
-<img src="https://github.com/erica-pereira/erica-pereira/blob/main/images//kisspng-php-logo-programmer-computer-software-it-sticker-5ae9eabfa18986.5568151515252794236617.png" alt="java" width="60" height="60"/>
+<img src="https://github.com/erica-pereira/erica-pereira/blob/main/images/java.png" alt="java" width="60" height="60"/> <img src="https://github.com/erica-pereira/erica-pereira/blob/main/images//kisspng-php-logo-programmer-computer-software-it-sticker-5ae9eabfa18986.5568151515252794236617.png" alt="java" width="60" height="60"/>
 
 ### Frontend:
 <img src="https://github.com/erica-pereira/erica-pereira/blob/main/images/java-script.png" alt="javascript" width="60" height="60"/> <img src="https://github.com/erica-pereira/erica-pereira/blob/main/images/css.png" alt="css" width="60" height="60"/> <img src="https://github.com/erica-pereira/erica-pereira/blob/main/images/html.png" alt="html" width="60" height="60"/>
